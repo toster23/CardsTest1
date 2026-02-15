@@ -1,4 +1,4 @@
-const PRODUCTS = [
+[
 	{ "id": 0, "name": "Кит", "desc": "КУПИ КИТА", "img": "whale.webp", "price": 50000 },
 	{ "id": 0, "name": "Кит", "desc": "КУПИ КИТА", "img": "whale.webp", "price": 50000 },
 	{ "id": 0, "name": "Кит", "desc": "КУПИ КИТА", "img": "whale.webp", "price": 50000 },
